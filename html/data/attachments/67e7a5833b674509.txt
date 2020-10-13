@@ -1,3 +1,0 @@
-[32mINFO    [0m root:order.py:33 订单-创建订单
-[32mINFO    [0m root:testOrder.py:34 请求地址:http://e.cn/api/v1/order
-[32mINFO    [0m root:testOrder.py:35 请求地址:{'order_no': 'DA13552824082002', 'order_id': '129', 'create_time': '2020-10-13 10:14:42', 'pass': True}
