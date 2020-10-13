@@ -1,0 +1,75 @@
+{
+  "uid" : "aa0b527e89d05109",
+  "name" : "test_home_api",
+  "fullName" : "Scripts.testHome.TestHomeApi#test_home_api",
+  "historyId" : "8ca4f966caf6269093d3ad8b547c6413",
+  "time" : {
+    "start" : 1602555282226,
+    "stop" : 1602555282296,
+    "duration" : 70
+  },
+  "description" : "轮播图",
+  "descriptionHtml" : "<p>轮播图</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "轮播图",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7d2570f3ee17dc69",
+      "name" : "log",
+      "source" : "7d2570f3ee17dc69.txt",
+      "type" : "text/plain",
+      "size" : 1091
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "testHome"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestHomeApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-B81E8O3"
+  }, {
+    "name" : "thread",
+    "value" : "3460-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.testHome"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa0b527e89d05109.json",
+  "parameterValues" : [ ]
+}
